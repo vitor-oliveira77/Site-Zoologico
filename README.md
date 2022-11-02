@@ -29,9 +29,9 @@ Zoológico de Guarulhos
 [//]: # (Add the features of your project here:)
 Utilizei as seguintes ferramentas de desenvolvimento:
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> — Utilização de HTML5, Linguagem de marcação utilizada em todo o site.
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> — Linguagem de marcação utilizada em todo o site.
 
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> — Foi Utilizado CSS3 no design das páginas.
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> — Definição de Estilos.
 
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> — Utilizado na Galeria de Animais, para exibir por espécie.
 
