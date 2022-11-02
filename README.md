@@ -11,7 +11,7 @@
 Zoológico de Guarulhos
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center"> Portfolio desenvolvido para as aulas de desenvolvimento web do Centro Universitário ENIAC. A proposta deste site é servir de base para a história do local e apresentar os serviços prestados aos animais. Projeto desenvolvido em HTML5 e CSS3, utilizando Bootstrap e JQuery </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -21,7 +21,7 @@ Zoológico de Guarulhos
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh2TinCRDN-x88JtF8Wuf-wJz3Ke-AuUxH4I4OkwrNxngFiusGRfOXJL67ibs8HxRR9Up5zBRlLm1bEcach9WEl57-ehawkhyQBSQ_UP55zQI-IxKf654_Mlvi1LEnHjWM-wti5yuIg5sgspitD8dqZu4mfBiF7NXWkDp54GwfEPlR-6h103YFUfJ1qEg" alt="demo" height="425">
   <img src="IMAGE_2_URL" alt="demo" height="425">
 </div>
 
