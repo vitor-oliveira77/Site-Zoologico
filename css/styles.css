@@ -1,0 +1,185 @@
+h1 {
+    color:#0e3b5b;
+} 
+
+body {
+    font-family: 'roboto',sans-serif;
+    background-color: #0e3b5b;
+}
+
+.row {
+    margin:0;
+}
+
+.container {
+    padding: 70px 0; 
+} 
+
+p,li { 
+    color:whitesmoke;
+    font-size: 20px;
+}   
+
+/* Barra de navegação */
+
+header, .navbar {
+    background-color:white;
+    padding: 30px;
+}
+
+#nav-container { 
+    padding-top: 0;
+    padding-bottom: 0; 
+} 
+
+#logo {
+    width: 200px;
+}
+
+.navbar-brand {
+    padding:0;
+    color:blue;
+}
+
+.navbar-brand:hover {
+    color: #137f4d;
+}
+
+#navbar-links a { 
+    color:#137f4d;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+
+/*Slider*/
+
+.container-fluid {
+    padding: 0;  
+} 
+
+#mainslider .carousel-inner, #mainSlider .carousel-item {
+    height: 90vh;
+} 
+
+#mainSlider .carousel-caption {
+    top:70%; 
+    font-weight: 700;
+    text-shadow: 2px 2px #000;
+} 
+
+#mainslider .carousel-caption h2 {
+    font-size: 50px;
+    margin-bottom:30px;
+    
+}
+
+#mainSlider .carousel-caption p {
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 100px;
+    color: white;
+    text-shadow: 2px 2px #000;
+} 
+#mainSlider .carousel-inner .carousel-item img {
+    opacity: 0.9; 
+}
+
+.main-btn {
+    background-color: #137f4d;
+    color: white ;
+    text-transform: uppercase;
+    width:200px;
+    height:60px;
+    padding:10px 20px;
+    border-radius:30px;
+    border: 3px solid transparent;
+    transition: .5s; 
+    cursor:pointer;
+   
+}
+
+.main-btn:hover{
+    text-decoration:none;
+    color:white;
+    background-color:transparent;
+    border-color:#137f4d;
+} 
+
+.carousel-indicators .active {
+    background-color:#137f4d;
+}
+
+/*Sobre a Empresa */
+
+#about-area {
+    background-color:#137f4d;
+}
+.main-title {
+    color:#137f4d;
+    margin: 0 0 65px 0;
+    font-size: 40px;
+    text-align:center;
+} 
+.about-title {
+    width: 732px;
+    height:198px;
+    text-align: justify;
+    margin-top: 20px;
+
+} 
+.img-fluid {
+width: 700px;
+height: 400px;
+margin-top: 10px;
+} 
+
+/* Animais */
+
+.animais-box {
+    margin-bottom:30px;
+}
+#filter-btn-box{ 
+    margin-bottom: 50px;
+    text-align:center;
+}
+#animais-area .filter-btn.active, #animais-area .filter-btn:hover {
+color:white;
+background-color: #0e3b5b;
+border-color:#137f4d
+}
+
+#contact-area {
+    text-align: center;
+}
+
+.contact-box {
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom:1px solid #137f4d;
+
+}
+
+.contact-box p {
+    font-size: 23px;
+}
+
+.contact-box i {
+    color:#137f4d;
+    border: solid 1px #137f4d; 
+    border-radius: 50px;
+    width:55px;
+    height: 55px; 
+    line-height:55px;
+    font-size:24px;
+    margin-bottom:20px;
+} 
+
+html {
+    scroll-behavior: smooth;
+  }
+ 
+:target {
+  scroll-margin-top: .8em;
+}
