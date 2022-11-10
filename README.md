@@ -11,7 +11,8 @@
 Zoológico de Guarulhos
 </h1>
 
-<p align="center"> Portfólio desenvolvido para as aulas de desenvolvimento web do Centro Universitário ENIAC. A proposta deste site é servir de base para a história do local,apresentar os serviços prestados aos animais e informar sobre localização e horários. Projeto desenvolvido em HTML5 e CSS3, Onde utilizei Bootstrap e JQuery pela primeira vez.</p>
+<p align="center"> Portfólio desenvolvido para as aulas de desenvolvimento web do Centro Universitário ENIAC. A proposta deste site é servir de base para a história do local,apresentar os serviços prestados aos animais e informar sobre localização e horários. Projeto desenvolvido em HTML5 e CSS3, Onde utilizei Bootstrap e JQuery pela primeira vez. 
+<strong> Para acessar o site clique no documento: index.html <strong> </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
